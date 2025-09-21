@@ -1,2 +1,3 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+Nama    : Muhammad Rivai Lie
+NPM     : 07352311052
+Kelas   : 5IF2
